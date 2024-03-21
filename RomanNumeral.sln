@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeral", "RomanNumeral.csproj", "{5CEEFB8A-7F21-4E7E-9BA0-7C02523D69EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanCalculator", "RomanCalculator.csproj", "{5CEEFB8A-7F21-4E7E-9BA0-7C02523D69EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralTests", "..\RomanNumeralTests\RomanNumeralTests.csproj", "{9F865874-5860-4BEA-96E6-1ABAA7CD448D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanNumeralTests", "..\RomanNumeralTests\RomanNumeralTests.csproj", "{9F865874-5860-4BEA-96E6-1ABAA7CD448D}"
 	ProjectSection(ProjectDependencies) = postProject
 		{5CEEFB8A-7F21-4E7E-9BA0-7C02523D69EB} = {5CEEFB8A-7F21-4E7E-9BA0-7C02523D69EB}
 	EndProjectSection
